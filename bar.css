@@ -1,0 +1,168 @@
+body{
+	background-color:#19174E;
+	margin: auto;
+	background-image: url("colorado symbol.jpg");
+}
+
+
+
+.topnav {
+	text-align:center;
+	color: red;
+	margin-right: 5px
+	font-size:16px;
+	padding:15px;
+	padding-top: 25px;
+	padding-right:15px;
+	
+}
+a{
+	padding:5px;
+	color:red;
+}
+
+
+#myTopnav {
+	text-align: center;
+	margin-right: 10px
+}
+
+.tagline{
+	font-size: 24px;
+	color:white;
+	text-align: center;
+
+}
+.ontap{
+	font-size: 18px;
+	color:black;
+	text-align: center;
+}
+.beer{
+	
+	width: 800px;
+	margin:auto;
+	padding-bottom: 20px;
+
+}
+.tapdiv{
+	border:6px solid black;
+	background-image: url("pints.jpg");
+	width :200px
+	height:400px;
+	margin-bottom: 20px;
+}
+.bottlediv{
+	border:6px solid black;
+	background-image: url("bottles.jpg");
+}
+.taplist{
+	color:orange;
+}
+
+li{
+	list-style: none;
+}
+.bottles{
+	text-align: center;
+	color: white;
+}
+.bottlelist{
+	color:gold;
+	font-weight: bold
+}
+
+.wine{
+	border: 6px solid black;
+	width: 800px;
+	margin:auto;
+	padding-top: 20px;
+	background-image: url("wine.jpeg");
+	margin-bottom:20px;
+}
+#winetitle{
+	color:red;
+	padding:15px;
+}
+#redwine{
+	color:purple;
+	padding-left:15px;
+
+}
+.redlist{
+	color:#D9064D;
+}
+#whitewine{
+	color:#8EDC27;
+	padding-left:20px;
+}
+
+.whitelist{
+	color:#C4E886;
+}
+
+.milediv{
+	border:6px solid black;
+	width:800px;
+	margin:auto;
+	background-image: url("martini03.jpg");
+	margin-bottom:20px;
+}
+.Milehigh{
+	
+	color:#E5D71D;
+
+}
+.mile{
+	color:green;
+	padding-left: 20px;
+}
+
+.milelist{
+	color:#16A46B;
+}
+.bulldog{
+	color:#E5D71D;
+}
+.muledeer{
+	color:#E5D71D;
+}
+.mule{
+	color:#E5D71D;
+}
+.peachtea{
+	color:#E5D71D;
+}
+.sunset{
+	color:#E5D71D;
+}
+.martini{
+	color:#E5D71D;
+}
+.cocktaildiv{
+	border:6px solid white;
+	width:800px;
+	height:500px;
+	margin-bottom: 60px;
+	text-align: center;
+	margin:auto;
+	background-image: url("hurricane4.jpg");
+}
+.cocktails{
+	color:#ffd800;
+}
+.cockhead{
+	color:black;
+}
+.hurricanP{
+	color:red;
+	font-weight: bold;
+}
+.hurrican{
+	color:red;
+}
+.hurricanediv{
+
+	width:800px;
+	height:300px;
+}

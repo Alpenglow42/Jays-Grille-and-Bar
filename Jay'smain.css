@@ -1,0 +1,73 @@
+
+body {
+	background-color:#19174E;
+	margin: auto;
+
+
+
+}
+
+
+.topnav {
+	text-align:center;
+	color: red;
+	margin-right: 5px
+	font-size:16px;
+	padding:15px;
+	padding-top: 25px;
+	
+}
+
+
+#myTopnav {
+	text-align: center;
+	margin-right: 10px
+
+	
+}
+.logoimg{
+	border:6px solid white;
+	
+}
+
+
+
+
+a {
+	margin-right: 10px
+}
+img{
+	display:block;
+	margin: auto;
+	width:40%;
+	
+	
+
+	
+
+}
+
+#addy{
+	color:red;
+	position: center;
+
+}
+#titleAddy {
+	color:red;
+}
+
+.phoneNum {
+	font-size: 16px;
+	color:orange;
+}
+
+li {
+	margin: auto;
+	list-style-type: none;
+	padding-top:3px;
+
+}
+ul{
+	text-align: center;
+	padding:10px;
+}

@@ -1,0 +1,19 @@
+body{
+	background-color:#001f3f;
+}
+ul {
+	color:#FFDC00;
+	list-style: none;
+}
+h2{
+	color:#FF8C00;
+}
+p{
+	color:#FF8C00;
+}
+#col1{
+	border: 6px solid #FFDC00;
+}
+#col2{
+	border: 6px solid #FFDC00;
+}

@@ -1,0 +1,167 @@
+
+
+body{
+	background-color:#19174E;
+	margin: auto;
+}
+
+.wrap{
+	width:900px;
+	height:1700px;
+	border:6px solid orange;
+	margin:auto;
+	padding:30px;
+	background-color:#19174E;
+}
+
+
+img{
+	display:block;
+	margin: auto;
+	width:40%;
+	padding-top: 50px
+}
+.happyTime{
+	color:yellow;
+}
+
+
+
+.Happy{
+	color:red;
+	text-align: center;
+}
+
+.Happydates{
+	color:yellow;
+	text-align: center;
+}
+
+.happyTime{
+	text-align:center;
+}
+
+.divHappy{
+	width:250px;
+	height:170px;
+	margin:auto;
+}
+
+.happyP{
+	text-align:justify;
+	padding: 15px 15px 15px 20px;
+	margin:auto;
+	color:orange;
+}
+
+h4.hhapps{
+	text-align:center;
+	color:red;
+	padding-top: 30px;
+}
+
+
+}
+
+.hhFood {
+	margin:auto;
+	color:orange;
+	text-align: center;
+
+}
+.hhFood{
+	list-style-type: none;
+	margin:center;
+	color:orange;
+
+}
+.list{
+	text-align: center;
+}
+
+
+li{
+	list-style-type: none;
+	text-align: center;
+	color:orange;
+}
+
+.monday {
+	color:red;
+	text-align: center;
+}
+
+.burger{
+	color:orange;
+	text-align-last: center;
+}
+
+.Wednesday{
+	color:red;
+	text-align: center;
+}
+
+.wingsPrice{
+	color:yellow;
+	text-align:center;
+}
+
+.wingSpecial{
+	color:orange;
+	text-align:center;
+}
+
+.Friday{
+	color:red;
+	text-align:center;
+}
+.fish{
+	color:orange;
+	text-align:center;
+	width:400px;
+	height:100px;
+	margin: auto;
+}
+
+.burger{
+	width:300px;
+	height:100px;
+	text-align: center;
+	margin:auto;
+}
+
+.topnav{
+	margin:auto;
+	text-align: center;
+	margin-right: 15px;
+	font-size: 16px;
+	padding:5px;
+}
+a{
+	padding:5px;
+}
+
+.gamediv{
+	text-align:center;
+	color:orange;
+}
+.gameP{
+	font-size: 18px;
+}
+.Gameday{
+	color:red;
+}
+.gamewings{
+	color:red;
+	font-size:24px;
+}
+.sliders{
+	color:yellow;
+	font-size: 20px;
+}
+.jello{
+	color:red;
+	font-size: 18px
+}
+
+

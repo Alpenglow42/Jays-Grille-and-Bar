@@ -1,0 +1,29 @@
+body {
+      background-color:#19174E;
+      margin: auto;
+}
+
+img{
+	width:700px;
+	height:auto;
+	display:block;
+	margin:auto;
+	padding-top:40px;
+
+
+}
+
+.topnav{
+	margin-right:10px;
+	text-align: center;
+}
+
+a{
+	margin-right:10px;
+
+}
+.topnav{
+	padding:15px;
+	padding-top: 25px;
+}
+
